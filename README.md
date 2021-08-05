@@ -7,7 +7,7 @@ Do You Use Replit, glitch or others For Your Discord Bot? Do You Use Features Li
 [Aquire](https://top.gg/bot/816987224662999040)
 
 [Flora 3.0](https://discord.com/oauth2/authorize?client_id=818410071653351474&scope=bot)
-
+ 
 # Support Friend
 
 
