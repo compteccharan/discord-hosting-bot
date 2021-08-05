@@ -25,4 +25,4 @@ client.on('message', message => {
 });
 
 require('./server');
-client.login("ODMxOTAzMTc5OTAxNTAxNDUw.YHcANg.JIYWf_ryvuXdIC47erzgBhLCKpg")
+client.login("token")
